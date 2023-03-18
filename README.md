@@ -1,0 +1,2 @@
+# minimo.cmp
+Home work
